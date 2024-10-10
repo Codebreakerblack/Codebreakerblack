@@ -5,7 +5,7 @@
 
 🚀 **Lo que hago ahora**
 ---
-Fbootcamp de Programación 📚
+Bootcamp de Programación 📚
 
 🔧**Tecnologías que manejo**
 ---
@@ -28,6 +28,6 @@ Big Data: Fundamentos de análisis de datos y manejo de grandes volúmenes 📊
 DevOps y automatización 🛠️
 Machine Learning y análisis avanzado de datos 🤖
 
-**Conéctate conmigo en LinkedIn**
+🤝**Conéctate conmigo en LinkedIn**
 ---
 https://www.linkedin.com/blancohmariel
