@@ -10,7 +10,6 @@ Fbootcamp de Programación 📚
 🔧**Tecnologías que manejo**
 ---
 Frontend: HTML | CSS | JavaScript 🌐
-
 Backend: Node.js 🚀
 Bases de Datos: MySQL | NoSQL  💾
 Control de versiones: Git & GitHub 💡
