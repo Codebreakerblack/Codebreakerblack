@@ -30,4 +30,4 @@ Machine Learning y análisis avanzado de datos 🤖
 
 **Conéctate conmigo en LinkedIn**
 ---
-(https://www.linkedin.com/blancohmariel)
+https://www.linkedin.com/blancohmariel
